@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Biotope",
+  "base_artist": "s**t kingz",
+  "createdAt": "2025-12-14T08:33:39.112260Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "From the Bottom of the Biotope",
+      "artist": "Asunojokei",
+      "has_synced": false,
+      "path": "select/01_From_the_Bottom_of_the_Biotope_Asunojokei.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Biotope feat. claquepot",
+      "artist": "s**t kingz",
+      "has_synced": false,
+      "path": "select/pl_01_Biotope_feat._claquepot_s_t_kingz.txt"
+    }
+  ]
+}
